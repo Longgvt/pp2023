@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: GIANG VU TUAN LONG 
 * Student ID: BA11-067
-* Group G1
+* Group: G1
